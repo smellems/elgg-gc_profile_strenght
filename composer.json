@@ -1,5 +1,5 @@
 {
-    "name": "smellems/gc_profile_strenght",
+    "name": "smellems/gc_profile_strength",
     "type": "elgg-plugin",
     "require": {
         "composer/installers": ">=1.0.8"
